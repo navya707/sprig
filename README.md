@@ -3,6 +3,13 @@ Welcome to the 2-player Jailbreak game! This is a fun and strategic game where p
 
 In this game, two players are escaping from jail to the finish line. The game involves reflexes, speed and strategy.
 
+
+
+https://github.com/user-attachments/assets/c536937d-a53c-49d1-a4fa-0574abf9de48
+
+
+
+
 ### Objective
 Each player has to beat the other to the finish line by navigating through a series of mazes that progressively get more complicated each time.
 ### Game Setup
